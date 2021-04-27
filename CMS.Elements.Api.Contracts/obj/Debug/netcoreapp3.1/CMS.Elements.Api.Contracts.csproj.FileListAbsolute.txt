@@ -1,0 +1,17 @@
+C:\EvolentHealthCare\MyAssignment\ContactManagementSystem\CMS.Elements.Api.Contracts\bin\Debug\netcoreapp3.1\CMS.Elements.Api.Contracts.deps.json
+C:\EvolentHealthCare\MyAssignment\ContactManagementSystem\CMS.Elements.Api.Contracts\bin\Debug\netcoreapp3.1\CMS.Elements.Api.Contracts.dll
+C:\EvolentHealthCare\MyAssignment\ContactManagementSystem\CMS.Elements.Api.Contracts\bin\Debug\netcoreapp3.1\CMS.Elements.Api.Contracts.pdb
+C:\EvolentHealthCare\MyAssignment\ContactManagementSystem\CMS.Elements.Api.Contracts\obj\Debug\netcoreapp3.1\CMS.Elements.Api.Contracts.AssemblyInfoInputs.cache
+C:\EvolentHealthCare\MyAssignment\ContactManagementSystem\CMS.Elements.Api.Contracts\obj\Debug\netcoreapp3.1\CMS.Elements.Api.Contracts.AssemblyInfo.cs
+C:\EvolentHealthCare\MyAssignment\ContactManagementSystem\CMS.Elements.Api.Contracts\obj\Debug\netcoreapp3.1\CMS.Elements.Api.Contracts.csproj.CoreCompileInputs.cache
+C:\EvolentHealthCare\MyAssignment\ContactManagementSystem\CMS.Elements.Api.Contracts\obj\Debug\netcoreapp3.1\CMS.Elements.Api.Contracts.dll
+C:\EvolentHealthCare\MyAssignment\ContactManagementSystem\CMS.Elements.Api.Contracts\obj\Debug\netcoreapp3.1\CMS.Elements.Api.Contracts.pdb
+C:\MyProjects\ContactManagementSystem\CMS.Elements.Api.Contracts\bin\Debug\netcoreapp3.1\CMS.Elements.Api.Contracts.deps.json
+C:\MyProjects\ContactManagementSystem\CMS.Elements.Api.Contracts\bin\Debug\netcoreapp3.1\CMS.Elements.Api.Contracts.dll
+C:\MyProjects\ContactManagementSystem\CMS.Elements.Api.Contracts\bin\Debug\netcoreapp3.1\CMS.Elements.Api.Contracts.pdb
+C:\MyProjects\ContactManagementSystem\CMS.Elements.Api.Contracts\obj\Debug\netcoreapp3.1\CMS.Elements.Api.Contracts.AssemblyInfoInputs.cache
+C:\MyProjects\ContactManagementSystem\CMS.Elements.Api.Contracts\obj\Debug\netcoreapp3.1\CMS.Elements.Api.Contracts.AssemblyInfo.cs
+C:\MyProjects\ContactManagementSystem\CMS.Elements.Api.Contracts\obj\Debug\netcoreapp3.1\CMS.Elements.Api.Contracts.csproj.CoreCompileInputs.cache
+C:\MyProjects\ContactManagementSystem\CMS.Elements.Api.Contracts\obj\Debug\netcoreapp3.1\CMS.Elements.Api.Contracts.dll
+C:\MyProjects\ContactManagementSystem\CMS.Elements.Api.Contracts\obj\Debug\netcoreapp3.1\CMS.Elements.Api.Contracts.pdb
+C:\MyProjects\ContactManagementSystem\CMS.Elements.Api.Contracts\obj\Debug\netcoreapp3.1\CMS.Elements.Api.Contracts.csprojAssemblyReference.cache
